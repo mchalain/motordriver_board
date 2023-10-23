@@ -1,0 +1,14 @@
+"Id";"Référence";"Empreinte";"Quantité";"Désignation";"Fournisseur et réf";
+1;"R3,R1,R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";3;"10k";;;
+2;"C1";"C_Rect_L7.0mm_W2.0mm_P5.00mm";1;"100nF";;;
+3;"C3";"C_Rect_L7.0mm_W2.0mm_P5.00mm";1;"10uF";;;
+4;"C2";"C_Rect_L7.0mm_W2.0mm_P5.00mm";1;"100uF";;;
+5;"J3,J5,J1";"PinHeader_1x06_P2.54mm_Vertical";3;"Conn_01x06";;;
+6;"JP3,JP1,JP2";"PinHeader_1x02_P2.54mm_Vertical";3;"Jumper_2_Open";;;
+7;"J6,J4,J2";"PinHeader_1x02_P2.54mm_Vertical";3;"Conn_01x02";;;
+8;"U3";"TO-220-3_Vertical";1;"LM7805_TO220";;;
+9;"U2";"DIP-8_W7.62mm";1;"24LC01";;;
+10;"D2";"D_DO-41_SOD81_P10.16mm_Horizontal";1;"1N4001";;;
+11;"D1";"Diode_Bridge_Diotec_ABS";1;"ABS2";;;
+12;"J7";"TerminalBlock_bornier-2_P5.08mm";1;"Screw_Terminal_01x02";;;
+13;"U1";"foo";1;"Raspberry_pico_H";;;
